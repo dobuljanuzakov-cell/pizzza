@@ -1,0 +1,166 @@
+header{
+  width: 1200px;
+  margin: 0 auto;
+width: 1600px;
+height: 750px;
+
+border: 7px solid #FBF10D;
+}
+
+.boss{
+  display: flex;
+justify-content: center;
+gap: 100px;
+margin-right: 70px;
+margin-top: 40px;
+}
+
+.wew{
+ width: 54px;
+ height: 51px;
+}
+
+.hol{
+  width: 100px;
+  height: 100px;
+
+}
+
+
+
+.rop{
+  font-size: 50px;
+  font-weight: 700;
+  
+}
+
+p{
+  font-size: 25px;
+  font-weight: 500;
+}
+
+.kop{
+    display: flex;
+   margin-left: 200px;
+}
+
+.mom{
+width: 705px;
+height: 100px;
+position: relative;
+
+right: 100px;
+margin-top: 200px;
+
+text-align: center;
+border: 7px solid #FBF10D;
+font-size: 50px;
+padding-top: 50px;
+}
+
+.op{
+ /* position: relative;
+ right: 300px; */
+}
+
+
+
+/* .kop{
+    margin-left: 200px;
+} */
+
+.gol{
+    width: 1200px;
+    margin: 0 auto;
+margin-top: 150px;
+
+}
+
+.qwert{
+font-size: 40px;
+font-weight: 700;
+}
+
+
+
+.sos{
+    font-size: 40px;
+font-weight: 700;
+text-align: center;
+}
+
+
+
+.jol{
+    width: 427px;
+height: 103px;
+border: 7px solid #FBF10D;
+padding-bottom: 30px;
+}
+
+.loj{
+    width: 460px; 
+height: 166px;
+border: 7px solid #FBF10D;
+
+
+}
+
+.toah{
+    width: 1200px;
+    margin: 0 auto;
+    width: 460px;
+height: 166px;
+border: 7px solid #FBF10D;
+margin-top: 50px;
+
+}
+
+
+
+.shef{
+    display: flex;
+    gap: 400px;
+}
+
+
+section{
+  background-color: #FBF10D;
+  width: 1200px;
+margin: 0 auto;
+width: 1170px;
+height: 10px;
+border-radius: 20px;
+margin-top: 500px;
+}
+
+.lotka{
+  display: flex;
+width: 1200px;
+margin: 0 auto;
+
+}
+
+.lodka{
+  display: flex;
+}
+
+.tip{
+ 
+  padding-top: 100px;
+
+}
+.lom{
+padding-left: 50px;
+font-weight: 700;
+}
+
+.wew {
+width: 32px;
+height: 32px;
+margin-top: 23px;
+}
+
+.tio{
+  display: block;
+}

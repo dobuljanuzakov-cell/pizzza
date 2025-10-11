@@ -1,0 +1,114 @@
+header{
+  width: 1200px;
+  margin: 0 auto;
+/* width: 1600px; */
+/* height: 750px; */
+  /* border: 7px solid #FBF10D; */
+}
+
+.boss{
+  display: flex;
+justify-content: center;
+gap: 100px;
+margin-right: 70px;
+margin-top: 40px;
+}
+
+.wew{
+ width: 54px;
+ height: 51px;
+}
+
+.hol{
+  width: 100px;
+  height: 100px;
+
+}
+
+
+
+.rop{
+  font-size: 50px;
+  font-weight: 700;
+  
+}
+
+p{
+  font-size: 25px;
+  font-weight: 500;
+}
+
+
+.container{
+    margin-top: 150px;
+}
+
+
+.box{
+    width: 668px;
+height: 339px;
+border: 7px solid #FBF10D;
+text-align: center;
+}
+
+.mok{
+    font-size: 30px;
+    font-weight: 600;
+}
+
+button{
+    width: 270px;
+height: 53px;
+background-color: #FBF10D;
+border: 0px;
+border-radius: 50px;
+font-size: 25px;
+margin-top: 30px;
+}
+
+
+.content{
+    display: flex;
+    gap: 50px;
+}
+
+section{
+  background-color: #FBF10D;
+  width: 1200px;
+margin: 0 auto;
+width: 1170px;
+height: 10px;
+border-radius: 20px;
+margin-top: 200px;
+}
+
+.lotka{
+  display: flex;
+width: 1200px;
+margin: 0 auto;
+
+}
+
+.lodka{
+  display: flex;
+}
+
+.tip{
+ 
+  padding-top: 100px;
+
+}
+.lom{
+padding-left: 50px;
+font-weight: 700;
+}
+
+.wew {
+width: 32px;
+height: 32px;
+margin-top: 23px;
+}
+
+.tio{
+  display: block;
+}

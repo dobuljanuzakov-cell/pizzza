@@ -1,0 +1,142 @@
+header{
+  width: 1200px;
+  margin: 0 auto;
+  background-image: url(./image\ 26.png);
+  width: 1440px;
+  height: 650px;
+}
+
+.boss{
+  display: flex;
+justify-content: center;
+gap: 100px;
+margin-right: 70px;
+margin-top: 40px;
+}
+
+.wew{
+ width: 54px;
+ height: 51px;
+}
+
+.hol{
+  width: 100px;
+  height: 100px;
+
+}
+
+.top{
+  margin-top: 300px;
+  margin-left: 170px;
+  gap: 50px;
+}
+
+.rop{
+  font-size: 50px;
+  font-weight: 700;
+   gap: 50px;
+}
+
+p{
+  font-size: 25px;
+  font-weight: 500;
+}
+
+
+.box{
+width: 600px;
+height: 234px;
+border-radius: 20px;
+ border: 8px solid #FBF10D;
+ display: flex;
+ text-align: center;
+}
+.bosss{
+    display: flex;
+    gap: 50px;
+  width: 1200px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+
+.don{
+    width: 58px;
+height: 41px;
+border-radius: 20px;
+background-color: #FBF10D;
+border: 0px;
+text-align: center;
+}
+
+.you{
+   
+    padding-top: 20px;
+    padding-left: 40px;
+}
+
+.done{
+    display: flex;
+    gap: 10px;
+    padding-top: 20px;
+}
+
+.bosses{
+      display: flex;
+    gap: 50px;
+  width: 1200px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+
+
+button{
+    width: 122px;
+height: 35px;
+border-radius: 20px;
+background-color: #FBF10D;
+border: 0px;
+margin-top: 25px;
+margin-left: 150px;
+}
+
+
+section{
+  background-color: #FBF10D;
+  width: 1200px;
+margin: 0 auto;
+width: 1170px;
+height: 10px;
+border-radius: 20px;
+margin-top: 150px;
+}
+
+.lotka{
+  display: flex;
+width: 1200px;
+margin: 0 auto;
+
+}
+
+.lodka{
+  display: flex;
+}
+
+.tip{
+ 
+  padding-top: 100px;
+
+}
+.lom{
+padding-left: 50px;
+}
+
+.wew {
+width: 32px;
+height: 32px;
+margin-top: 23px;
+}
+
+.tio{
+  display: block;
+}

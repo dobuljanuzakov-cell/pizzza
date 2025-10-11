@@ -1,0 +1,227 @@
+
+/* .conteiner{
+  width: 1200px;
+margin: 0 auto;
+} */
+
+
+
+
+
+
+
+
+
+.container{
+  width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.qwe{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+
+.content{
+width: 368px;
+height: 681px;
+ border: 5px solid #FBF10D;
+text-align: center;
+}
+
+p{
+  font-size: 25px;
+  font-weight: 500;
+}
+
+button{
+  width: 200px;
+  height: 60px;
+  border-radius: 40px;
+  background-color: #FBF10D;
+  border: 0px ;
+  font-size: 25px;
+  margin-top: 10px;
+}
+.lol{
+width: 1200px;
+margin: 0 auto;
+margin-top: 300px;
+margin-bottom: 20px;
+}
+
+.boss{
+  display: flex;
+justify-content: center;
+gap: 100px;
+margin-right: 70px;
+margin-top: 40px;
+}
+
+header{
+  width: 1200px;
+  margin: 0 auto;
+  background-image: url(./image\ 25.png);
+  width: 1440px;
+  height: 683px;
+}
+.wew{
+ width: 54px;
+ height: 51px;
+}
+
+.hol{
+  width: 100px;
+  height: 100px;
+
+}
+
+.top{
+  margin-top: 300px;
+  margin-left: 170px;
+}
+
+.rop{
+  font-size: 48px;
+  font-weight: 700;
+}
+
+.continer{
+    width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+
+.lal{
+width: 1200px;
+margin: 0 auto;
+margin-top: 100px;
+margin-bottom: 20px;
+}
+
+.box{
+  width: 470px;
+height: 100%;
+border: 5px solid #FBF10D;
+margin-top: 30px;
+}
+
+.we{
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.boxes{
+  display: flex;
+  gap: 250px;
+}
+
+.you{
+  margin-top: 40px;
+}
+
+.ball{
+  margin-left: 30px;
+}
+
+.ball{
+  display: flex;
+ gap: 30px;
+  align-items: center;
+}
+
+.pone{
+  margin-top: 30%;
+  text-align: center;
+position: relative;
+
+}
+
+.bot{
+  width: 386px;
+  height: 386px;
+position: relative;
+bottom: 150px;
+  background-color:  #FBF7A7;
+border-radius: 50%;
+
+}
+
+.boxeb{
+  display: flex;
+  gap: 100px;
+
+}
+.one{
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.four{
+  width: 557px;
+  height: 700px;
+text-align: center;
+  border: 5px solid #FBF10D;
+}
+.five{
+    width: 1200px;
+  margin: 0 auto;
+}
+
+.eight{
+  margin-top: 50px;
+}
+
+.three{
+display: flex;
+margin-top: 50px;
+gap: 40px;
+}
+
+section{
+  background-color: #FBF10D;
+  width: 1200px;
+margin: 0 auto;
+width: 1170px;
+height: 10px;
+border-radius: 20px;
+margin-top: 150px;
+}
+
+.lotka{
+  display: flex;
+width: 1200px;
+margin: 0 auto;
+
+}
+
+.lodka{
+  display: flex;
+}
+
+.tip{
+ 
+  padding-top: 100px;
+
+}
+.lom{
+padding-left: 50px;
+}
+
+.wew {
+width: 32px;
+height: 32px;
+margin-top: 23px;
+}
+
+.tio{
+  display: block;
+}

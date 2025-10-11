@@ -1,0 +1,123 @@
+header{
+  width: 1200px;
+  margin: 0 auto;
+  background-image: url(./image\ 26.png);
+  width: 1440px;
+  height: 650px;
+}
+
+.boss{
+  display: flex;
+justify-content: center;
+gap: 100px;
+margin-right: 70px;
+margin-top: 40px;
+}
+
+.wew{
+ width: 54px;
+ height: 51px;
+}
+
+.hol{
+  width: 100px;
+  height: 100px;
+
+}
+
+.top{
+
+  margin-top: 300px;
+  margin-left: 170px;
+   
+}
+
+.rop{
+  font-size: 100px;
+  font-weight: 700;
+   gap: 300px;
+}
+
+p{
+  font-size: 25px;
+  font-weight: 500;
+}
+
+
+
+
+
+.container{
+    width: 1200px;
+    margin: 0 auto;
+margin-top: 150px;
+}
+
+
+.rot{
+    font-size: 40px;
+    font-weight: 700;
+  padding-top: 100px;
+}
+
+.content{
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    gap: 100px;
+}
+
+
+button{
+ width: 200px;
+ height: 40px;
+    background-color: red;
+    border: 0px;
+  position: relative;
+  bottom: 100px;
+ left: 550px;
+   border-radius: 20px;
+font-size: 30px;
+color: white;
+}
+
+section{
+  background-color: #FBF10D;
+  width: 1200px;
+margin: 0 auto;
+width: 1170px;
+height: 10px;
+border-radius: 20px;
+margin-top: 150px;
+}
+
+.lotka{
+  display: flex;
+width: 1200px;
+margin: 0 auto;
+
+}
+
+.lodka{
+  display: flex;
+}
+
+.tip{
+ 
+  padding-top: 100px;
+
+}
+.lom{
+padding-left: 50px;
+font-weight: 700;
+}
+
+.wew {
+width: 32px;
+height: 32px;
+margin-top: 23px;
+}
+
+.tio{
+  display: block;
+}
