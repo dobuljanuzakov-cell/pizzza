@@ -37,6 +37,8 @@ text-align: center;
 p{
   font-size: 25px;
   font-weight: 500;
+
+  
 }
 
 button{
@@ -61,6 +63,7 @@ justify-content: center;
 gap: 100px;
 margin-right: 70px;
 margin-top: 40px;
+position: fixed;
 }
 
 header{
@@ -82,7 +85,7 @@ header{
 }
 
 .top{
-  margin-top: 300px;
+  padding-top: 300px;
   margin-left: 170px;
 }
 
