@@ -108,7 +108,10 @@ width: 32px;
 height: 32px;
 margin-top: 23px;
 }
-
+.boss p:hover{
+  font-size: 30px;
+  font-weight: 500;
+}
 .tio{
   display: block;
 }

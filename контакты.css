@@ -76,7 +76,10 @@ background-color: #FBF10D;
 border: 0px;
 
 }
-
+.boss p:hover{
+  font-size: 30px;
+  font-weight: 500;
+}
 .mop{
     margin-top:100px;
 }

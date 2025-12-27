@@ -27,7 +27,10 @@ margin-top: 40px;
 }
 
 
-
+.boss p:hover{
+  font-size: 30px;
+  font-weight: 500;
+}
 .rop{
   font-size: 50px;
   font-weight: 700;

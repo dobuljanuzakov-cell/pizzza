@@ -88,7 +88,9 @@ text-align: center;
   margin-top: 30px;
 }
 
-
+.hghghhdhhd{
+  color: blue;
+}
 
 button{
     width: 122px;
@@ -100,6 +102,9 @@ margin-top: 25px;
 margin-left: 150px;
 }
 
+button:hover{
+  font-size: 19px;
+}
 
 section{
   background-color: #FBF10D;
